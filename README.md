@@ -7,6 +7,6 @@ I enjoy working on AI/ML, computer vision, and web development projects, turning
 Python, JavaScript, HTML, CSS
 Machine Learning, Deep Learning
 Computer Vision (YOLO, OpenCV)
-React, Git, GitHub
+React, Git, GitHub, next.js, node.js
 
 
