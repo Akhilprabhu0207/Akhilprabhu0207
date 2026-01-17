@@ -1,9 +1,9 @@
-## Hey there 👋
-🎓 AIML Graduate | 💻 Developer | 🤖 AI Enthusiast
+## Hey there 👋<br>
+🎓 AIML Graduate | 💻 Developer | 🤖 AI Enthusiast<br>
 I am Akhil, an AIML graduate with a strong interest in building intelligent, scalable, and user-friendly applications.
 I enjoy working on AI/ML, computer vision, and web development projects, turning ideas into real solutions 🚀
 
-🛠 Skills
+🛠 Skills<br>
 Python, JavaScript, HTML, CSS
 Machine Learning, Deep Learning
 Computer Vision (YOLO, OpenCV)
